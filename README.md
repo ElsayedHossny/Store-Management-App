@@ -1,5 +1,6 @@
 ## Live Demo:
 https://elsayedhossny.github.io/Store-Management-App/
 
-# Store-Management-App       
-<img width="1117" height="761" alt="image" src="https://github.com/user-attachments/assets/77c69288-9a2c-4255-8b87-b44f66ab53a3" />
+# Store-Management-App   
+
+<img width="1132" height="764" alt="image" src="https://github.com/user-attachments/assets/f32df397-7350-4b74-8164-1b487903ecf8" />
